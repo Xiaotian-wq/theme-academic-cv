@@ -31,23 +31,17 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zhangxt2022@shanghaitech.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Analog/mixed-signal/RF integrated circuits for brain-machine interfaces
   - Computational Linguistics
   - Information Retrieval
 
@@ -178,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Victor Zhang is currently pursuing his bachelor’s degree in Electric Engineering at the Shanghaitech University in Shanghai, China. He is a visiting student at the University of California, Berkeley from January 2025 to May 2025, In addition, He will undertake long-term research training at the RISE Lab, Rice University. His research interests include Analog/mixed-signal/RF integrated circuits, especially ADC, PLL, and Active Filter design.
