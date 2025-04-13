@@ -54,7 +54,7 @@ education:
       Conducting research on analog-digital interfaces and ADC architecture for brain-computer interfaces and neural recording applications.
     button:
       text: 'Read RISE Lab Web'
-      url: 'https://chilab.info/'
+      url: '[https://chilab.info/](https://profiles.rice.edu/faculty/taiyun-chi)'
   - area:  Exchange Program in Electronic Engineering
     institution: University of California, Berkeley
     date_start: 2025-01-15
