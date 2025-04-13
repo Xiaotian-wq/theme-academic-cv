@@ -44,34 +44,40 @@ interests:
   - Analog/mixed-signal/RF integrated circuits for brain-machine interfaces
   - Computational Linguistics
   - Information Retrieval
-
 education:
   - area: Visiting Research in Rice Integrated Systems and Electromagnetics Lab
     institution: Rice University
     date_start: 2025-06-01
-    date_end: 2025-10-31
+    date_end: 2025-10-20
     summary: |
       J1 Visiting International Researcher, invited by Prof. Chi Taiyun.
-
       Conducting research on analog-digital interfaces and ADC architecture for brain-computer interfaces and neural recording applications.
-
-  - area: Exchange Program in Electronic Engineering
+    button:
+      text: 'Read RISE Lab Web'
+      url: 'https://chilab.info/'
+  - area:  Exchange Program in Electronic Engineering
     institution: University of California, Berkeley
     date_start: 2025-01-15
     date_end: 2025-05-16
     summary: |
-      Selected for the GLOBE Exchange Program.
+      Learn specialized knowledge about analog/RF circuits
 
-      Enrolled in advanced EECS courses and engaged in cross-disciplinary academic exchange.
-
+      Courses included:
+      - EECS 123  Digital Signal Processing
+      - EECS 142  Integrated Circuits for Communications (Professor: Ali Niknejad)
+      - EECS 240B Advanced Analog Integrated Circuits(Professor: Osama Shana'a)
   - area: BEng Electronic Engineering
     institution: ShanghaiTech University
     date_start: 2022-09-01
-    date_end: Present
+    date_end: 2026-06-31
     summary: |
       GPA: 3.83/4.0
+      Rank In SIST (School of Information Science and Technology,Shanghaitech)：14/238
+      Courses included:
+      - general course: Advanced Mathematics(A+), Linear Algebra(A), Probability and Statistics(A), Introduction to Information Science and Technology(A+)
+      - EE courses: Electric Circuits(A+), Electromagnetics(A+), Signals and Systems(A-), Introduction to Programming(A-)
+      - Key courses: Digital and Analog Circuits(A), Analog Integrated Circuits(A), Digital Integrated Circuits(A+), Fundamentals of Semiconductor Devices(A)
 
-      Relevant coursework and research projects in analog IC design, signal processing, and biochip systems.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
