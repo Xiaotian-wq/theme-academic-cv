@@ -52,37 +52,32 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Visiting Research in Rice Integrated Systems and Electromagnetics Lab
+    institution: Rice University
+    date_start: 2025-06-01
+    date_end: 2025-10-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      J1 Visiting International Researcher, invited by Prof. Chi Taiyun.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Conducting research on analog-digital interfaces and ADC architecture for brain-computer interfaces and neural recording applications.
+
+  - area: Exchange Program in Electronic Engineering
+    institution: University of California, Berkeley
+    date_start: 2025-01-15
+    date_end: 2025-05-16
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Selected for the GLOBE Exchange Program.
+
+      Enrolled in advanced EECS courses and engaged in cross-disciplinary academic exchange.
+
+  - area: BEng Electronic Engineering
+    institution: ShanghaiTech University
+    date_start: 2022-09-01
+    date_end: Present
+    summary: |
+      GPA: 3.83/4.0
+
+      Relevant coursework and research projects in analog IC design, signal processing, and biochip systems.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
